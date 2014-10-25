@@ -19,7 +19,7 @@ The code is written with a lot of checks for exists. The reason is to save time 
  - Load the test subjects
  - Bind the subjects to the test data
  - Shrink the data to the required columns
- - Perform the agreegation by subject and activity
+ - Perform the aggregation by subject and activity
  - Write the tidydata.txt output
 
 *The final output is stored in the working directory*
